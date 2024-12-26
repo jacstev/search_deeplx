@@ -1,4 +1,4 @@
-# serch_deeplx
+# search_deeplx
 
 # 寻找合适可用的deeplx
 
